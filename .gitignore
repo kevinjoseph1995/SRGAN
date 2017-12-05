@@ -6,3 +6,7 @@ sample/
 samples/
 checkpoint/
 __pycache__/
+**/*.png
+**/*.mp4
+*.npy
+*.zip
